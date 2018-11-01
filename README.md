@@ -1,6 +1,8 @@
 # odsc-west-2018-missing-data
 ODSC West 2018 - Good, Fast, Cheap: How to do Data Science with Missing Data
 
+For size reasons, you can find the slides [here](https://github.com/matthewbrems/odsc-west-slides).
+
 ### Missing Data Resources
 - [Pattern Submodel Paper from "Biostatistics"](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxy040/5092384)
 - [MissingNo in Python](https://github.com/ResidentMario/missingno)
